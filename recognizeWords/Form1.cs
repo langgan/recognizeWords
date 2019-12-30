@@ -22,6 +22,17 @@ namespace recognizeWords
             public const string API_ID = "18106051";
             public const string API_KEY = "Z1ihNHwyXknHGrssGZiK864V";
             public const string SECRET_KEY = "RwcdVsTa6fOZoMyofv55IO229iNB5058";
+
+            //// 设置APPID/AK/SK
+            //var APP_ID = "你的 App ID";
+            //var API_KEY = "你的 Api Key";
+            //var SECRET_KEY = "你的 Secret Key";
+
+            //var client = new Baidu.Aip.Ocr.Ocr(API_KEY, SECRET_KEY);
+            //client.Timeout = 60000;  // 修改超时时间
+
+
+
         }
         private void button1_Click(object sender, EventArgs e)
         {
