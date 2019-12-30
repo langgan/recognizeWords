@@ -1,0 +1,10 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\recognizeWords\recognizeWords\bin\Debug\recognizeWords.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\recognizeWords\recognizeWords\bin\Debug\recognizeWords.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\recognizeWords\recognizeWords\bin\Debug\recognizeWords.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\recognizeWords\recognizeWords\obj\Debug\recognizeWords.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\recognizeWords\recognizeWords\obj\Debug\recognizeWords.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\recognizeWords\recognizeWords\obj\Debug\recognizeWords.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\recognizeWords\recognizeWords\obj\Debug\recognizeWords.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\recognizeWords\recognizeWords\obj\Debug\recognizeWords.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\recognizeWords\recognizeWords\obj\Debug\recognizeWords.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\recognizeWords\recognizeWords\bin\Debug\AipSdk.pdb
